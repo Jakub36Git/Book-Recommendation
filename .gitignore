@@ -1,3 +1,18 @@
+# macOS
 .DS_Store
+
+# Jupyter notebooks
 .ipynb_checkpoints/
-.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code
+.vscode/
+
+# Environment files
+.env
+.venv
